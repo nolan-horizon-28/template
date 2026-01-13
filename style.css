@@ -1,6 +1,6 @@
 body {
-    background-color: #1a1a1a;
-    color: white;
+    background-color: #ebe7e7;
+    color: rgb(19, 19, 19);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     flex-direction: column;
@@ -15,8 +15,8 @@ header {
 
 #gameCanvas {
     background-color: #000;
-    border: 4px solid #4CAF50;
-    box-shadow: 0 0 20px rgba(76, 175, 80, 0.5);
+    border: 4px solid #68076d;
+    box-shadow: 0 0 20px rgba(16, 96, 19, 0.5);
     display: block;
 }
 
@@ -26,5 +26,4 @@ main {
 }
 
 h2, h3 {
-    color: #4CAF50;
-}
+    color: #46054f;
